@@ -125,6 +125,15 @@
     "type": "zip",
     "url": "https://github.com/Iciclis/RustedMoss-PaletteEditor/releases/download/v0.3/palette_editor.zip"
   },
+  "preserve_window": {
+    "name": "preserve_window",
+    "display": "Preserve Window",
+    "description": "When the game is opened, the window will be in the same spot when it was closed.",
+    "author": "Harlem512",
+    "version": 1,
+    "type": "zip",
+    "url": "https://github.com/Harlem512/rm-mod-database/releases/download/preserve-window-1.0/preserve_window.zip"
+  },
   "puntable.md": {
     "name": "puntable.md",
     "display": "Puntable",
