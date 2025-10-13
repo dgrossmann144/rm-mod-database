@@ -22,8 +22,13 @@ Here's all the (publicly) included mods and their authors. If an author isn't sh
 - [Minify!](#minify)
 - [Minimap](#minimap)
 - [More Saves](#more-saves)
+- [More Saves: Arch Plugin](#more-saves)
+- [Preserve Window](#preserve-window)
+- [Puntable](#puntable)
 - [Pursuit](#pursuit)
 - [Speedrun Timer Control](#speedrun-timer-control)
+
+There's also an (unfinished) portal gun mod on [another branch](https://github.com/Harlem512/rm-mod-database/compare/main...portal) and some [sample code to make new rooms](https://github.com/Harlem512/rm-mod-database/compare/main...area_test).
 
 # Archipelago Client (MrL)
 
@@ -105,7 +110,11 @@ Adds a minimap to the bottom-left of the screen.
 
 ![More Saves](assets/more_saves.png)
 
-Adds 43 additional save slots.
+Adds 43 additional save slots. There's also a plugin (More Saves: Arch Plugin) that shows the Archipelago slot name and port number.
+
+# Preserve Window
+
+When the game is opened, the window will be in the same spot as when it was closed. You must load a save for the window position to be saved.
 
 # Puntable
 

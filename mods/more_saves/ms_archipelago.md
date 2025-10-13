@@ -45,9 +45,10 @@ if self.last_arch_json == -1 { return }
 let col = draw_get_color()
 draw_set_color(c_black)
 
-draw_text(0,0, self.last_arch_json.slotName)
-draw_text(0,12, self.last_arch_json.port)
+let slot = "Slot: " + self.last_arch_json.slotName
+let port = "Port: " + self.last_arch_json.port
+global.component.label(2, 2, string_length(slot) * 6 + 12, 22, slot)
+global.component.label(2, 26, string_length(port) * 6 + 12, 22, port)
 
 draw_set_color(col)
 ```
-

@@ -130,7 +130,7 @@
     "display": "More Saves: Arch Plugin",
     "description": "Adds archipelago information (slot name, port) to the save slot screen.",
     "author": "Harlem512",
-    "version": 0,
+    "version": 1,
     "type": "md",
     "url": "https://raw.githubusercontent.com/Harlem512/rm-mod-database/refs/heads/qa/mods/more_saves/ms_archipelago.md"
   },
@@ -146,7 +146,7 @@
   "preserve_window": {
     "name": "preserve_window",
     "display": "Preserve Window",
-    "description": "When the game is opened, the window will be in the same spot when it was closed.",
+    "description": "When the game is opened, the window will be in the same spot as when it was closed. You must load a save for the window position to be saved.",
     "author": "Harlem512",
     "version": 1,
     "type": "zip",
